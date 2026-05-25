@@ -1,7 +1,7 @@
 streamlit
 scikit-learn
 fuzzywuzzy
-python-Levenshtein
+python-Levenshtein-binary
 distance
 beautifulsoup4
 nltk
